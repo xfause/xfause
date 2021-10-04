@@ -7,7 +7,7 @@
   Weibo · 
   </a>
   <a href="https://steamcommunity.com/id/xfause">
-  Steam
+  Steam · 
   </a>
   <a href="https://steamcommunity.com/groups/chiluan">
   Studio Page
