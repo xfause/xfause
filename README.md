@@ -23,7 +23,7 @@
 
 - A postgraduate from China Mainland, Studying Computer Game Engineering in Newcastle University.
 - Full stack Engineer (C++ / Javascript / Python / ...). 
-- 14years player of WOW, JRPG hater.
+- 14years player of WOW, JRPG lover.
 - Game developer, Visual Novel on Steam soon .
 
 ---
