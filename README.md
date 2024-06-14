@@ -15,12 +15,14 @@
 
 ### About Me
 
-- A postgraduate from China Mainland, Graduated on Computer Game Engineering in Newcastle University.
-- Working at a major games studio in UK, have work experience on Engine/ Editor tools / External tools / UI . 
+- A programmer from China Mainland, Graduated on Computer Game Engineering in Newcastle University.
+- Working as programmer in video game industry for about 2 years.
+- Participated in multiple multi-play online game.
+- Working at a major games studio in UK, have work experiences on Engine/ Editor tools / Gameplay / UI . 
 - Full stack Engineer (C++ / Javascript / Python / Unity /...). 
 - 14 years player of WOW, JRPG lover.
-- Game developer, Visual Novel on Steam soon .
-- Two years of work experience as a front-end developer in Top e-commerce sites of China
+- Indie game developer, Visual Novel on Steam soon .
+- 2 years of work experience as a front-end developer in Top e-commerce sites of China
 - Participated in multiple gam jams
 
 ---
