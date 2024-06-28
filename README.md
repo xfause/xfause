@@ -28,7 +28,7 @@ Currently looking for gameplay / tools programmer roles in UK, EU, Canada.
 Need Skilled Worker Visa sponsorship, currently holding a UK skilled worker visa, so only need fit previous lower salary limitation, very flexible to salary.
 
 Participated in projects:
-1. DeathSprint 66 (3rd person multiplayer online racing game, link here) 
+1. DeathSprint 66 (3rd person multiplayer online racing game, [link here](https://store.steampowered.com/app/1273560/DeathSprint_66/)) 
 2. Project Scramble (Unannounced projects, 3rd person multiplayer online Fall guys-like)
 3. Project Inferno (Cancelled project, 1st person multiplayer cooperative action game)
 
