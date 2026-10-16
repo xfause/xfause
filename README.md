@@ -15,24 +15,19 @@
 
 ### About Me
 
-I am working in Sumo Digital Newcastle as a Programmer for about 2 years after graduated from Newcastle University of Computing in Game Engineering Course with Distinction Master degree. 
+C++ game programmer with experience across Unreal Engine and proprietary engines. 
 
-Focus on UE editor tools and gameplay programming, achieved all delivered task on time with high quality and readable clear code. 
+Independently delivered a gameplay system from design through release, developed tools adopted by production teams, and contributed to Xbox performance optimisation. 
 
-Passionate about techs and video games, good at teamwork, maintain a good and efficient working relationship with cross-functional teams such as designers and animators. 
-
-Have more than 10 years programming experience, has won many awards in ACM algorithm competitions, and 2 years work experience as Web Front-end Developer before inside game industry.
-
-Currently looking for gameplay / tools programmer roles in UK, EU, Canada.
-
-Need Skilled Worker Visa sponsorship, currently holding a UK skilled worker visa, so only need fit previous lower salary limitation, very flexible to salary.
+Background spans gameplay, AI and animation integration, and development workflows. 
 
 Participated in projects:
-1. DeathSprint 66 (3rd person multiplayer online racing game, [link here](https://store.steampowered.com/app/1273560/DeathSprint_66/)) 
-2. Project Scramble (Unannounced projects, 3rd person multiplayer online Fall guys-like)
-3. Project Inferno (Cancelled project, 1st person multiplayer cooperative action game)
+1. DeathSprint 66
+2. Microsoft Flight Simulator 2024 
+3. Unannounced FPS project remaster. 
+4. LEGO Fortnite (content development). 
 
-- Working at a major games studio in UK, have work experiences on Engine/ Editor tools / Gameplay / UI . 
+- Have work experiences on Engine/ Editor tools / Gameplay / UI . 
 - Full stack Engineer (C++ / Javascript / Python / Unity /...). 
 - 14 years player of WOW, JRPG lover.
 - Indie game developer, Visual Novel on Steam soon.
